@@ -65,6 +65,23 @@ header{
     width: calc(100% / 5);
 }
 
+/* take-two-banner section */
+#take-two-banner{
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+#take-two-logo{
+    width: 250px;
+}
+
+#take-two-banner button{
+    background-color: rgb(205, 61, 15);
+    border-color: rgb(205, 61, 15);
+    margin: 20px 0 60px 0;
+}
 
 /* /MAIN */
 
