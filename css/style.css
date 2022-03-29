@@ -1,0 +1,13 @@
+/* HEADER */
+header{
+    background-color: white;
+}
+.top-logo{
+    height: 30px;
+    background-color: black;
+}
+
+.top-logo img{
+    height: 50%;
+}
+/* /HEADER */
