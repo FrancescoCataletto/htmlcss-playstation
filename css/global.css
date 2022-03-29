@@ -1,0 +1,15 @@
+.main-structure{
+    width: 90%;
+    margin: 0 auto;
+    height: 100%;
+}
+
+.container-fluid{
+    height: 100%;
+}
+
+.main-bttn{
+    padding: 5px 10px;
+    border-radius: 25px;
+    color: white;
+}
