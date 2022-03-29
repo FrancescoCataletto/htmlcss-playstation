@@ -83,6 +83,19 @@ header{
     margin: 20px 0 60px 0;
 }
 
+/* ratchet and tony hawk videogames slider section */
+#ratchet-tony{
+    background-color: rgb(31, 31, 31);
+    color: white;
+}
+
+#ratchet-tony img{
+    width: 100%;
+    border-radius: 15px;
+    margin: 30px 0;
+}
+
+
 /* /MAIN */
 
 /* MEDIA NECESSITY */
