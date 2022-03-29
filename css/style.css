@@ -95,6 +95,18 @@ header{
     margin: 30px 0;
 }
 
+/* black console section */
+#black-console img{
+    width: 100%;
+}
+
+#black-console button{
+    background-color: rgb(45, 100, 230);
+    color: white;
+    border-color: rgb(45, 100, 230);
+    margin: 20px 0 60px 0;
+}
+
 
 /* /MAIN */
 
