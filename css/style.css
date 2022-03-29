@@ -127,6 +127,11 @@ header{
     margin: 20px 0 60px 0;
 }
 
+/* discount section */
+#discount img{
+    width: 100%;
+}
+
 /* /MAIN */
 
 /* MEDIA NECESSITY */
