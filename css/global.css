@@ -48,7 +48,6 @@ h2{
 
 #ratchet-returnal .shifted:hover{
     transform: translateY(-10px);
-    transition: 0.2s;
 }
 
 #bordered-img:hover{

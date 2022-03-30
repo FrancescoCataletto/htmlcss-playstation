@@ -70,6 +70,10 @@ header .main-bttn{
     margin: 30px 0;
 }
 
+#ratchet-returnal .shifted{
+    transition: 0.2s;
+}
+
 /* white console and white joystick section */
 
 #play-5-thumb img{
