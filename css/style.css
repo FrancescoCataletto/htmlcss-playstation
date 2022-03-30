@@ -226,13 +226,20 @@ footer{
 }
 
 #s-i-e{
-    width: 100px;
+    width: 150px;
     margin-bottom: 20px;
 }
 
 footer li:hover{
     cursor: pointer;
     text-decoration: underline;
+}
+
+footer .fa-registered{
+    top: 55px;
+    left: 85px;
+    color: white;
+    transform: scale(0.5);
 }
 
 /* MEDIA NECESSITY */
