@@ -148,13 +148,20 @@ header .main-bttn{
     background-color: rgb(190, 188, 187);
 }
 
+#playstation-plus .main-structure{
+    padding: 0;
+}
+
 #plus-img{
     width: 250px;
 }
 
-#plus-img-disappear{
-    width: 100%;
+#plus-img-disappear{ 
+	width: 100%;
+	vertical-align: middle; 
+	overflow: hidden; 
 }
+
 
 #playstation-plus button{
     background-color: rgb(217, 218, 220);
