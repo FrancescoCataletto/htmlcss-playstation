@@ -50,6 +50,10 @@ h2{
     transform: translateY(-10px);
 }
 
+#ratchet-returnal .shifted:hover img{
+    box-shadow: 0px 0px 0px 2px black;
+}
+
 #bordered-img:hover{
     border-bottom: 2px solid rgb(9, 114, 206);
     cursor: pointer;
