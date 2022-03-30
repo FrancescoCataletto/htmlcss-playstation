@@ -86,6 +86,10 @@ header .main-bttn{
     color: white;
 }
 
+#white-console .highlight-over-title{
+    color: rgb(23, 127, 210);
+}
+
 #flex-playstation{
     display: flex;
     flex-wrap: wrap;
