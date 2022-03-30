@@ -96,6 +96,7 @@ header .main-bttn{
 }
 
 #bordered-img img{
+    padding-bottom: 20px;
     opacity: 0.8;
     width: 40%;
 }
