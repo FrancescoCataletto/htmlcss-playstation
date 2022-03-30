@@ -228,4 +228,8 @@ footer li:hover{
     #flex-playstation div{
         width: calc(100% / 3);
     }
+
+    #bordered-img img{
+        width: 100%;
+    }
 }
