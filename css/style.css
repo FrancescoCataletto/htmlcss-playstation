@@ -10,6 +10,25 @@ header{
 .top-logo img{
     height: 50%;
 }
+
+header .main-bttn{
+    background-color: rgb(54, 54, 54);
+    color: white;
+    border-color: rgb(54, 54, 54);
+    margin-right: 20px;
+}
+
+#navbarSupportedContent li{
+    margin-right: 10px;
+}
+
+#navbarSupportedContent a{
+    color: black;
+}
+
+#lens{
+    width: 25px;
+}
 /* /HEADER */
 
 /* JUMBOTRON */
@@ -54,6 +73,12 @@ header{
 
 #white-console img{
     width: 100%;
+}
+
+#white-console .main-bttn{
+    background-color: rgb(45, 100, 230);
+    border-color: rgb(45, 100, 230);
+    color: white;
 }
 
 #flex-playstation{
@@ -149,7 +174,7 @@ header{
 #playstation-now button{
     background-color: rgb(245, 245, 245);
     color: black;
-    border: none;
+    border-color: rgb(245, 245, 245);
     margin: 20px 0 60px 0;
 }
 
