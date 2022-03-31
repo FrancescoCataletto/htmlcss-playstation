@@ -103,6 +103,7 @@ header .main-bttn{
     padding-bottom: 20px;
     opacity: 0.8;
     width: 40%;
+    transition: 0.2s;
 }
 
 /* take-two-banner section */

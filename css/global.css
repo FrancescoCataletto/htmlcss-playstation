@@ -55,13 +55,17 @@ h2{
 }
 
 #bordered-img:hover{
-    border-bottom: 2px solid rgb(9, 114, 206);
     cursor: pointer;
 }
 
 #bordered-img:hover img{
     opacity: 1;
 }
+
+#bordered-img:active{
+    border-bottom: 2px solid rgb(9, 114, 206);
+}
+
 .p-left-zero{
     padding-left: 0;
 }
