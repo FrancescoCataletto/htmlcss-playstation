@@ -235,6 +235,10 @@ footer{
     color: white;
 }
 
+footer a{
+    color: white;
+}
+
 footer .fa-copyright{
     font-size: 10px;
 }

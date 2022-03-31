@@ -52,6 +52,14 @@ h2{
     color: rgb(0, 99, 205);
 }
 
+#navbarSupportedContent a:hover .fa-chevron-down{
+    color: rgb(0, 99, 205);
+}
+
+#navbarSupportedContent a:focus .fa-chevron-up{
+    color: rgb(0, 99, 205);
+}
+
 #ratchet-returnal .shifted:hover{
     transform: translateY(-10px);
 }
@@ -78,4 +86,21 @@ h2{
 
 li{
     list-style: none;
+}
+
+.fa-chevron-down{
+    color: rgb(153, 153, 153);
+}
+
+.fa-chevron-up{
+    color: rgb(153, 153, 153);
+    display: none;
+}
+
+#navbarDropdown:focus .fa-chevron-down{
+    display: none;
+}
+
+#navbarDropdown:focus .fa-chevron-up{
+    display: inline-block;
 }
