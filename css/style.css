@@ -259,6 +259,7 @@ footer .fa-copyright{
 #logo-play{
     width: 100px;
     margin-top: -19px;
+    filter: brightness(0) invert(1);
 }
 
 #s-i-e{
