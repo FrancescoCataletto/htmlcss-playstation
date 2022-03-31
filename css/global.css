@@ -80,6 +80,12 @@ h2{
     border-bottom: 2px solid rgb(9, 114, 206);
 }
 
+#ratchet-tony img:hover{
+    opacity: 1;
+    transform: translateY(-10px);
+    box-shadow: 0px 0px 0px 2px black;
+}
+
 .p-left-zero{
     padding-left: 0;
 }
