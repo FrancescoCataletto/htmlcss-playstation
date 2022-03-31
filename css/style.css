@@ -136,6 +136,15 @@ header .main-bttn{
     margin: 30px 0;
 }
 
+#ratchet-tony .col-6{
+    position: relative;
+}
+
+#ratchet-tony .fa-trademark{
+    position: absolute;
+    font-size: 6px;
+}
+
 /* black console section */
 #black-console img{
     width: 100%;
@@ -146,6 +155,11 @@ header .main-bttn{
     color: white;
     border-color: rgb(45, 100, 230);
     margin: 20px 0 60px 0;
+}
+
+#black-console .fa-registered{
+    font-size: 10px;
+    top: 10px;
 }
 
 /* playstation-plus section */
@@ -219,6 +233,10 @@ header .main-bttn{
 footer{
     background-color: rgb(0, 67, 156);
     color: white;
+}
+
+footer .fa-copyright{
+    font-size: 10px;
 }
 
 #logo-play{
