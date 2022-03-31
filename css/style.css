@@ -180,6 +180,7 @@ header .main-bttn{
 
 #plus-img{
     width: 250px;
+    margin: 20px 0;
 }
 
 #plus-img-disappear{ 
@@ -210,6 +211,7 @@ header .main-bttn{
 
 #now-img{
     width: 250px;
+    margin-bottom: 20px;
 }
 
 #now-img-disappear{
@@ -232,6 +234,10 @@ header .main-bttn{
 #socials img{
     width: 100%;
     margin: 20px 0;
+}
+
+#socials h2{
+    margin: 40px 0;
 }
 
 /* /MAIN */
