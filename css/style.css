@@ -99,6 +99,10 @@ header .main-bttn{
     width: calc(100% / 5);
 }
 
+#bordered-img{
+    border-bottom: 2px solid white;
+}
+
 #bordered-img img{
     padding-bottom: 20px;
     opacity: 0.8;
